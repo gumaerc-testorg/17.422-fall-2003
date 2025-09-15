@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'This section provides information on the second major course requirement
+  (60% of grade): students may choose from a take home final exam, a research paper
+  (long paper) or three short review essays covering the individual parts of the course.'
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -7,7 +10,7 @@ title: Assignments
 uid: df1156eb-42a1-52c9-130f-85f9e390df98
 ---
 
-For the second major course requirement (60% of grade), students may choose from a take home final [exam]({{< baseurl >}}/pages/exams), a research paper (long paper) or three short review essays covering the individual parts of the course.
+For the second major course requirement (60% of grade), students may choose from a take home final {{% resource_link f6023ea8-37db-6fc8-c852-12b6265ba17a "exam" %}}, a research paper (long paper) or three short review essays covering the individual parts of the course.
 
 Short Essay Assignments
 -----------------------
